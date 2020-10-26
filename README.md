@@ -1,17 +1,19 @@
-# simple-projects
-<h1>Simple JS projects for practice</h1>
+# simple-projects for practice
 <br>
-Includes:
+<h3>Includes:</h3>
 <br>
-Chuck Norris Joke Generator using an API.
+<ul>
+<li>Chuck Norris Joke Generator using an API.</li>
 <br>
-Background Color Changer.
+<li>Background Color Changer.</li>
 <br>
-Number counter.
+<li>Number counter.</li>
 <br>
-animate.css paractice.
+<li>animate.css paractice.</li>
 <br>
-local storage practice.
+<li>local storage practice.</li>
 <br>
-Automaticaly Increment number
+  <li>Automaticaly Increment number</li>
 <br>
+  
+</ul>
