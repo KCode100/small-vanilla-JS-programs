@@ -1,0 +1,30 @@
+body,
+html{
+    margin: 0px;
+    box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gainsboro;
+}
+
+.container{
+    border: 2px solid gray;
+    text-align: center;
+    /* height: 400px;
+    width: 400px; */
+    padding: 80px;
+}
+
+.number{
+    font-size: 3rem;
+    color: white;
+}
+
+button{
+    padding: 15px 30px;
+    font-size: 2rem;
+    margin: 1rem;
+    
+}
