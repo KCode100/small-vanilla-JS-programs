@@ -1,0 +1,15 @@
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  /* hr{
+      margin: 0px;
+  } */
+
+  .messages{
+      /* text-align: center; */
+      padding: 10px;
+      margin: 5px;
+  }
