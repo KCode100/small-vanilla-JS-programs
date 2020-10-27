@@ -1,0 +1,64 @@
+body,
+html{
+    box-sizing: border-box;
+    margin: 0px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container{
+    text-align: center;
+    border: 3px solid maroon;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.container:hover{
+    box-shadow: 2px 2px 2px grey;
+}
+
+.container:active{
+    box-shadow: 0px 0px 0px;
+    padding: 15px;
+}
+
+h4{
+    font-size: 2rem;
+}
+
+div.hex{
+    font-size: 2rem;
+}
+
+.copy{
+    /* padding: 5px; */
+    cursor: pointer;
+    float: right;
+    color: black;
+    opacity: 0.9;
+    font-size: 1.3rem;
+    color: brown;
+}
+
+.copy:hover{
+    cursor: grabbing;
+}
+
+.copy:active{
+    opacity: 0.5;
+}
+
+.css{
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+
+.css .copy{
+    font-size: 1rem;
+    float: right;
+}
