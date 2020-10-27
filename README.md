@@ -1,14 +1,13 @@
-# simple-projects for practice
+##**
+
 <br>
-<h3>Includes:</h3>
-<br>
-<ul>
-  <li>Chuck Norris Joke Generator using an API.</li>
-  <a href = https://kcode100.github.io/simple-projects/chuck-norris-joke-generator target="_blank">https://kcode100.github.io/simple-projects/chuck-norris-joke-generator</a>
-  <br>
-  <li>Background Color Changer.</li>
-  <a href = https://kcode100.github.io/simple-projects/bg-color target="_blank">https://kcode100.github.io/simple-projects/bg-color</a>
-  <br>
+
+* Chuck Norris Joke Generator using an API.
+  * [view live](https://kcode100.github.io/simple-projects/chuck-norris-joke-generator)
+  
+* Background Color Changer.</li>
+  [view live](https://kcode100.github.io/simple-projects/bg-color)
+
   <li>Number counter.</li>
   <a href = https://kcode100.github.io/simple-projects/counter target="_blank">https://kcode100.github.io/simple-projects/counter</a>
   <br>
