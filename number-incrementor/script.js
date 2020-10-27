@@ -4,6 +4,5 @@ function increment(){
     const numberUI = document.querySelector('.number');
     number++;
     numberUI.innerHTML = number;
-    console.log('hi kivi');
     requestAnimationFrame(increment);
 }
