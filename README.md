@@ -16,6 +16,6 @@
   <li>Automaticaly Increment number</li>
 <br>
   <li>Hex background css changer</li>
-  https://github.com/KCode100/simple-projects/Hex number Background color/
+  https://github.com/KCode100/simple-projects/Hex-number-Background-color/
   
 </ul>
