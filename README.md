@@ -8,6 +8,7 @@
   <li>Background Color Changer.</li>
   <br>
   <li>Number counter.</li>
+  <a href = https://kcode100.github.io/simple-projects/counter></a>
   <br>
   <li>animate.css paractice.</li>
   <br>
