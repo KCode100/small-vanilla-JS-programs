@@ -21,7 +21,7 @@
 * local storage practice.
   * [Go To Site](https://kcode100.github.io/small-vanilla-JS-programs/local-storage) 
 
-* Automaticaly Increment numbe.
+* Automaticaly Increment number.
   * [Go To Site](https://kcode100.github.io/small-vanilla-JS-programs/number-incrementor)
   
 * Background Color Changer.
