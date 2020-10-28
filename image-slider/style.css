@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    min-height: 100vh;
+    background: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    flex: 0 0 60%;
+    min-height: 80vh;
+    background: url('https://images.pexels.com/photos/3283186/pexels-photo-3283186.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500')center/cover no-repeat;
+    border-radius: 15px;
+    box-shadow: 5px 10px black;
+    position: relative;
+}
+
+.btn{
+    display: inline-block;
+    background-color: white;
+    color: black;
+    border: 3px solid green;
+    font-size: 1.5rem;
+    padding: 0.1rem 1rem;
+    border-radius: 5px;
+    box-shadow: 2px 5px black;
+    outline: none;
+}
+
+.prevBtn{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(-50%, -50%);
+}
+
+.nextBtn{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(50%, -50%);
+}
+
+.btn:active{
+    background-color: gray;
+    box-shadow: 1px 1px gray;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
