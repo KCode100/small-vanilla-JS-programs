@@ -14,6 +14,7 @@ function increment(){
         } else if (count === 0) {
             numberUI.style.color = 'white';
         }
+    animate();
 }
 
 function decrement(){
@@ -24,4 +25,10 @@ function decrement(){
     } else if (count < 0) {
         numberUI.style.color = 'red';
     }
+    animate();
+}
+
+function animate(){
+    numberUI.animate([{opacity: '0.2'},{opacity: '1.0'},],
+    {duration: 500, fill: "forwards"});
 }
