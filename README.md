@@ -25,7 +25,7 @@
   * [Go To Site](https://kcode100.github.io/small-vanilla-JS-programs/number-incrementor)
   
 * Background Color Changer.
-  * [Go To Site](https://kcode100.github.iosmall-vanilla-JS-programs/bg-color)
+  * [Go To Site](https://kcode100.github.io/small-vanilla-JS-programs/bg-color)
 
 * animate.css paractice.
   * [Go To Site](https://kcode100.github.io/small-vanilla-JS-programs/animation)
